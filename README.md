@@ -1,2 +1,2 @@
-# playwright_practice
+# About repositories?
 ฝึกการใช้ playwright
